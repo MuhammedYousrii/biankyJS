@@ -1,0 +1,8 @@
+node_modules/
+bower_components/
+package-lock.json
+assets/
+playground/
+src/app/public/images/
+src/app/public/videos/
+dist/

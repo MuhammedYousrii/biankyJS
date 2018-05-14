@@ -1,0 +1,26 @@
+{
+  "name": "DeltaNileEgypt",
+  "description": "Delta Nile Egypt is Plastic Factory",
+  "main": "src/index.js",
+  "authors": [
+    "crafted-developers"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "delta",
+    "nile",
+    "plastic"
+  ],
+  "homepage": "/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.19",
+    "lightbox2": "^2.9.0"
+  }
+}

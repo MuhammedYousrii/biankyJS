@@ -1,0 +1,6 @@
+pugs to fix 
+	1- import commons.scss into commons.css.scss
+	2- change class text-controller to text-control
+	3- fix import path into print.scss , index.scss to new commons path
+	4- fix import path into index.js
+	5- change app component controllers names
