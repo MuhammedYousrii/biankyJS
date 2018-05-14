@@ -1,19 +1,21 @@
 {
-  "name": "libraryName",
-  "version": "1.0.0",
-  "description": "LibraryDescription",
+  "name": "BiankyJS",
+  "version": "0.6.2",
+  "description": "Minimal JS Library To Build Full Features Web apps In Easy Way",
   "main": "src/index.js",
   "scripts": {
     "test": "karma start karma.config.js --log-level debug",
     "start": "webpack-dev-server --mode=development --env.NODE_ENV=development --env.platform=web --config webpack.config.js",
     "build": "webpack --mode=production --env.NODE_ENV=production --env.platform=web -p"
   },
-  "author": "crafted-developers",
+  "author": "Muhammed Yousrii",
   "license": "ISC",
   "keywords": [
-    "delta",
-    "nile",
-    "plastic"
+    "JS",
+    "Bianky",
+    "Library",
+    "component",
+    "web"
   ],
   "dependencies": {
     "babel-polyfill": "^6.26.0",
